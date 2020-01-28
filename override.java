@@ -1,5 +1,5 @@
-#run time
-#signatures will be preserved
+//run time
+//signatures will be preserved
 
 import java.util.*;
  class A
