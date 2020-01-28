@@ -14,7 +14,7 @@ import java.util.*;
         System.out.println(a+"and"+b);
     }
 }
-public class over1
+public class overload
 {
     public static void main(String args[])
     {
@@ -39,7 +39,7 @@ import java.util.*;
         System.out.println("area of square = "+b*b);
     }
 }
-public class over1
+public class overload
 {
     public static void main(String args[])
     {
